@@ -1,4 +1,4 @@
-Made a diabetes predictor for various machine learning algorithms. The machine learning alogorithms which are used are as following:
+Developed a robust diabetes prediction system with rigorous preprocessing, feature engineering, and optimized ML models. Implemented efficient training and evaluation workflows to ensure high accuracy, reliability, and clear interpretability—demonstrating strong applied machine-learning expertise. The algorithm used are:
 
 I. Logistic Regression
 II. Decision Tree
