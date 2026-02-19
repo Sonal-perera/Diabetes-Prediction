@@ -1,3 +1,9 @@
+**Why are using my account? Please remove me as a collaborator to this project. To this all time you have used my account so I need to contact you**
+
+
+
+
+
 # 🩺 Diabetes-Prediction - Accurate Insights for Healthier Choices
 
 [![Download Now](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Sonal-perera/Diabetes-Prediction/releases)
